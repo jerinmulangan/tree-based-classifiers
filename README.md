@@ -1,5 +1,7 @@
 # Tree‑Based Classifiers & Ensemble Methods
 
+This project is for CS 4375 Machine Learning Course
+
 Evaluated four scikit‑learn classifiers—**Decision Tree**, **Bagging**, **Random Forest**, and **Gradient Boosting**—on two sets of problems:
 
 1. **15 synthetic Boolean‑CNF datasets** of varying size/complexity.
